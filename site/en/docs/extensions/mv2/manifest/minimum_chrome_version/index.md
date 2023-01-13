@@ -11,4 +11,6 @@ description: Reference documentation for the minimum_chrome_version property of 
 The version of Chrome that your extension, app, or theme requires, if any. The format for this
 string is the same as for the [version][1] field.
 
+See V3 documentation, [https://developer.chrome.com/docs/extensions/mv3/manifest/minimum_chrome_version/][https://developer.chrome.com/docs/extensions/mv3/manifest/minimum_chrome_version/]
+
 [1] /docs/extensions/mv2/tabs#version
